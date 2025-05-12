@@ -1,0 +1,37 @@
+# Ignore model weights and large files
+/opt/
+/home/deepseek-r1-14b/
+*.safetensors
+*.bin
+*.pt
+*.tgz
+*.tar.gz
+*.zip
+
+# Ignore logs and outputs
+# *.log
+# *.out
+
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+*.env
+*.conda
+*.ipynb_checkpoints/
+
+# Ignore wheels and downloaded packages
+wheels/
+*.whl
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Track only essential scripts and documentation
+!test_deepseek_direct.py
+!serve_deepseek_vllm.sh
+!DEPLOY_DEEPSEEK_OFFLINE.md 

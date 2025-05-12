@@ -1,0 +1,18 @@
+Loading tokenizer...
+Loading model...
+Generating response...
+
+Model response:
+ <｜User｜>Solve 27×36. Show steps then box the answer.<｜Assistant｜><think>
+To solve 27 multiplied by 36, I can break down the numbers to make the calculation easier.
+
+First, I'll decompose 36 into 30 and 6.
+
+Next, I'll multiply 27 by 30, which gives me 810.
+
+Then, I'll multiply 27 by 6, resulting in 162.
+
+Finally, I'll add 810 and 162 together to find the total, which is 972.
+</think>
+
+To solve \(27 \times 36\), follow these easy-to-understand steps
